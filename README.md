@@ -1,3 +1,3 @@
 # ToDoList
 
-![to-do-list](https://user-images.githubusercontent.com/59740034/119237914-0e3a8180-bb5d-11eb-804a-f597929ff02e.png)
+![Screenshot (13)](https://user-images.githubusercontent.com/59740034/119329913-4e0b8100-bca3-11eb-9419-0e005325f3ec.png)
